@@ -18,6 +18,7 @@ public class Alodemo {
         // TODO code application logic here
         System.out.println("heeeloo betch");
         System.out.println("heeeloo betch mn2");
+        System.out.println("heeeloo betch mn3");
     }
     
 }
