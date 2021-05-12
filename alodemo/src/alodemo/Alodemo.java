@@ -21,6 +21,7 @@ public class Alodemo {
         System.out.println("heeeloo betch mn3");
         System.out.println("heeeloo betch m1231312");
         System.out.println("hellooo bitch");
+        Person p = new Person();
     }
     
 }
