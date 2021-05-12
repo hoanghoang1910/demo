@@ -11,4 +11,6 @@ package alodemo;
  */
 public class Person {
     int age;
+    int date;
+    int chó;
 }
