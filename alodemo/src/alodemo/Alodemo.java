@@ -23,6 +23,7 @@ public class Alodemo {
         System.out.println("hellooo bitch");
         Person p = new Person();
         System.out.println("Hoang");
+        System.out.println("Add print statement");
     }
     
 }
