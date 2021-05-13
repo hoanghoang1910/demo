@@ -24,6 +24,7 @@ public class Alodemo {
         Person p = new Person();
         System.out.println("Hoang");
         System.out.println("Add print statement");
+        System.out.println("dep zai ngai ai")
     }
     
 }
